@@ -23,10 +23,8 @@ function multiply(a, b)
 let result = multiply(3,2);
 alert (result); 
 ```
-
 ### C++
-
-``` 
+```
 int multiply(int a, int b)
 {
 int c=a * b;
@@ -35,7 +33,6 @@ int c=a * b;
 
 int result = multiply(3,2);
 std::cout<<result<<endl;
-
 ```
 # Work experience:
 Nothing yet :(
