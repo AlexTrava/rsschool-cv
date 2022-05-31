@@ -31,7 +31,7 @@ int c=a * b;
 }
 
 int result = multiply(3,2);
-cout<<result<<endl;
+std::cout<<result<<endl;
 ```
 # Work experience:
 Nothing yet :(
