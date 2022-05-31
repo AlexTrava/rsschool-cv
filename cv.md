@@ -14,17 +14,19 @@ At this point in my life, I want to change my job. That's why I want to learn Fr
 * C++
 # Code Example 
 ### Js
-``` 
+```
 function multiply(a, b)
 {
   return a * b;
 }
 
 let result = multiply(3,2);
-alert (result);
+alert (result); 
 ```
+
 ### C++
-```
+
+``` 
 int multiply(int a, int b)
 {
 int c=a * b;
@@ -33,6 +35,7 @@ int c=a * b;
 
 int result = multiply(3,2);
 std::cout<<result<<endl;
+
 ```
 # Work experience:
 Nothing yet :(
