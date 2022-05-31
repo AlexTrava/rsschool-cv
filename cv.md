@@ -6,6 +6,7 @@
 * **Email:** aleksei.travnov@mail.ru
 * **GitHub:** [AlexTrava](https://github.com/AlexTrava)
 *  **Discord Nickname:** Aleksey(@AlexTrava)
+*  **Telegram:** @trav_aa
 
 # About Me
 At this point in my life, I want to change my job. That's why I want to learn Front-End Development at RSSchool.
